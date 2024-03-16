@@ -1,2 +1,3 @@
-# bare-bones
-A barebones portfolio page
+# Bare Bones Portfolio Page
+
+Created for ease of viewing on any style of device.
